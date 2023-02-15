@@ -1,3 +1,3 @@
 # Business Card
 
-Built using HTML, CSS, and JS
+Built using HTML and CSS
